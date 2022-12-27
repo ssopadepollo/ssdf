@@ -3,4 +3,3 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ssopadepollo/sddsd/ma
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ssopadepollo/seriuslybro/main/wsp", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ssopadepollo/puro1/main/arbolggiante", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ssopadepollo/crystalicaca/main/ohhyeahhh", true))()
-loadstring(game:HttpGet("https://github.com/ssopadepollo/farmpes/tree/main", true))()
