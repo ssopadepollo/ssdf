@@ -6,3 +6,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ssopadepollo/crystali
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ssopadepollo/farmpes/main/siuuu", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ssopadepollo/comds/main/kick", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ssopadepollo/exposed/main/lol", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ssopadepollo/invisiblre/main/lolll", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ssopadepollo/noinvisible/main/lool", true))()
